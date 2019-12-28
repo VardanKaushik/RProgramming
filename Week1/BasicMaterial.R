@@ -5,4 +5,5 @@ greater <- funtion(){
     return(y)
 }
 
-print(greater(5,10))
+print(greater())
+
