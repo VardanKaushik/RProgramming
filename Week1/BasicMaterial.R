@@ -1,9 +1,12 @@
-greater <- funtion(){
+greater <- function() {
   if(x>y)
     return(x)
   else
     return(y)
 }
 
-print(greater())
 
+ 
+# greater <- function() {
+#   return(10)
+# }
